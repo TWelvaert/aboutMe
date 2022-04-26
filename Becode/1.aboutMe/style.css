@@ -1,0 +1,24 @@
+body {
+  background-color: rgb(83, 150, 172);
+  font-family: Garamond, serif;
+  color: rgb(250, 250, 250);
+  font-size: xx-large;
+}
+
+
+#myFace {
+  width: 300px; 
+  height: auto;
+  border: 5px solid rgb(250, 250, 250);
+}
+
+#background {
+  background-image:none
+}
+
+table, th, td {
+  border: 5px solid;
+  text-align: left;
+}
+
+footer {text-align: center;}
